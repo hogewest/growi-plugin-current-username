@@ -43,5 +43,11 @@
     "node": ">=8.11.1 <15",
     "npm": ">=5.6.0 <7",
     "yarn": ">=1.5.1 <2"
+  },
+  "growiPlugin": {
+    "schemaVersion": "4",
+    "types": [
+      "script"
+    ]
   }
 }
